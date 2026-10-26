@@ -1,0 +1,6 @@
+{
+  "name": "LabNet Pro",
+  "description": "Smart Computer Lab Monitoring & Software Management System for college engineering and computer science laboratories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
